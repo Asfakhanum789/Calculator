@@ -1,1 +1,1 @@
-# e
+"Streamline your calculations with our straightforward calculator app. Add, subtract, multiply, and divide with ease. Featuring a user-friendly interface and essential functions, it's the perfect tool for quick and accurate math tasks on the go."
